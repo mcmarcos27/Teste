@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/24 16:09:32.000.330,=C:\Users\Marcos Aurelio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/05 10:32:10.000.561,=C:\Users\Marcos Aurelio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/05 10:37:21.000.339,D:\Marcos\Unit1.pas=C:\Users\Marcos Aurelio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/05 10:37:21.000.339,D:\Marcos\Unit1.dfm=C:\Users\Marcos Aurelio\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/02/05 10:37:26.000.173,D:\Marcos\Project1.dproj=C:\Users\Marcos Aurelio\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/02/05 10:47:56.000.858,=D:\Marcos\Unit2.pas</Transaction>
+    <Transaction>2022/02/05 10:48:58.000.212,D:\Marcos\uDmConexao.pas=D:\Marcos\Unit2.pas</Transaction>
+    <Transaction>2022/02/05 10:48:58.000.212,D:\Marcos\uDmConexao.dfm=D:\Marcos\Unit2.dfm</Transaction>
+    <Transaction>2022/02/05 10:58:36.000.889,=D:\Marcos\Unit2.pas</Transaction>
+    <Transaction>2022/02/05 11:07:06.000.932,D:\Marcos\ufrProduto.dfm=D:\Marcos\Unit2.dfm</Transaction>
+    <Transaction>2022/02/05 11:07:06.000.932,D:\Marcos\ufrProduto.pas=D:\Marcos\Unit2.pas</Transaction>
+    <Transaction>2022/02/05 11:23:31.000.589,=D:\Marcos\Unit2.pas</Transaction>
+    <Transaction>2022/02/05 11:29:49.000.794,D:\Marcos\uFuncoes.pas=D:\Marcos\Unit2.pas</Transaction>
+    <Transaction>2022/02/05 12:11:35.000.071,=D:\Marcos\Unit2.pas</Transaction>
+    <Transaction>2022/02/05 12:11:59.000.173,D:\Marcos\uFrCliente.dfm=D:\Marcos\Unit2.dfm</Transaction>
+    <Transaction>2022/02/05 12:11:59.000.173,D:\Marcos\uFrCliente.pas=D:\Marcos\Unit2.pas</Transaction>
+    <Transaction>2022/02/05 13:53:32.000.658,=D:\Marcos\Unit2.pas</Transaction>
+    <Transaction>2022/02/05 13:53:45.000.849,D:\Marcos\Classes\uCliente.pas=D:\Marcos\Unit2.pas</Transaction>
+    <Transaction>2022/02/05 13:58:09.000.446,=D:\Marcos\Unit2.pas</Transaction>
+    <Transaction>2022/02/05 13:58:23.000.918,D:\Marcos\Classes\uProduto.pas=D:\Marcos\Unit2.pas</Transaction>
+    <Transaction>2022/02/05 14:20:33.000.166,=D:\Marcos\Unit2.pas</Transaction>
+    <Transaction>2022/02/05 14:20:49.000.334,D:\Marcos\Classes\uPedido.pas=D:\Marcos\Unit2.pas</Transaction>
+    <Transaction>2022/02/05 15:07:17.000.363,=D:\Marcos\Unit2.pas</Transaction>
+    <Transaction>2022/02/05 17:44:13.000.104,=D:\Marcos\Unit2.pas</Transaction>
+    <Transaction>2022/02/05 17:45:14.000.595,D:\Marcos\uTabela.pas=D:\Marcos\Unit2.pas</Transaction>
+    <Transaction>2022/02/07 19:40:27.000.649,=D:\Marcos\Unit2.pas</Transaction>
+    <Transaction>2022/02/07 20:35:47.000.790,D:\Marcos\Unit2.pas=D:\Marcos\frmPesquisar.pas</Transaction>
+    <Transaction>2022/02/07 20:35:47.000.790,D:\Marcos\Unit2.dfm=D:\Marcos\frmPesquisar.dfm</Transaction>
+    <Transaction>2022/02/07 20:40:17.000.910,D:\Marcos\frmPesquisar.dfm=D:\Marcos\ufrmPesquisar.dfm</Transaction>
+    <Transaction>2022/02/07 20:40:17.000.910,D:\Marcos\frmPesquisar.pas=D:\Marcos\ufrmPesquisar.pas</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Classes"/>
+    <File Path="Classes\uCliente.pas"/>
+    <File Path="Classes\uPedido.pas"/>
+    <File Path="Classes\uProduto.pas"/>
+    <File Path="uDmConexao.pas"/>
+    <File Path="uDmConexao.dfm"/>
+    <File Path="uFrCliente.pas"/>
+    <File Path="uFrCliente.dfm"/>
+    <File Path="ufrmPesquisar.pas"/>
+    <File Path="ufrmPesquisar.dfm"/>
+    <File Path="ufrProduto.pas"/>
+    <File Path="ufrProduto.dfm"/>
+    <File Path="uFuncoes.pas"/>
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="uTabela.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
